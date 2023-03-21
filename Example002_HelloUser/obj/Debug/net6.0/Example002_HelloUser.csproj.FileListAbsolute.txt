@@ -1,0 +1,15 @@
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/ref/Example002_HelloUser.dll
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/home/teinrus/Рабочий стол/учеба/C#/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
