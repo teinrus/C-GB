@@ -22,7 +22,7 @@ while(count <11100){
         y=( y+ya)/2;
     }
     if (what == 1){
-        x=(x+xb)/2;
+        x=(x+xb)/2;а
         y=(y+yb)/2;
     }
 
