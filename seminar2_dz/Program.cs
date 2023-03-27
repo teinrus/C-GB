@@ -23,7 +23,7 @@
 // if (input1<100){
 //     Console.WriteLine("3 chifri net");
 // }else{
-//     while (input1>1000){
+//     while (input1>999){
 //         input1/=10;
 //     }
 //     Console.WriteLine($"{input1%10}");
@@ -38,8 +38,13 @@
 // Console.WriteLine("Vvedite chislo 1");
 // int input1 =int.Parse(Console.ReadLine());
 
-// if (input1%6==0 ||input1%7==0){
+// if (input1==6||input1%7==7){
 //     Console.WriteLine($"{input1} eto vihodnoi");
 // }else{
-//      Console.WriteLine($"{input1} eto ne vihodnoi");
+//     if(input1>0 && input1<7){
+//         Console.WriteLine($"{input1} eto ne vihodnoi");
+//     }else{
+//         Console.WriteLine($"{input1} eto ne den nedeli");
+//     }
+     
 // }
