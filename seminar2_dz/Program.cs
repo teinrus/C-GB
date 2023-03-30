@@ -38,7 +38,7 @@
 // Console.WriteLine("Vvedite chislo 1");
 // int input1 =int.Parse(Console.ReadLine());
 
-// if (input1==6||input1%7==7){
+// if (input1==6||input1==7){
 //     Console.WriteLine($"{input1} eto vihodnoi");
 // }else{
 //     if(input1>0 && input1<7){
