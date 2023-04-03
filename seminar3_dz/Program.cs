@@ -13,7 +13,7 @@
 
 //     Console.WriteLine("chislo 1 ne vernoe");
 // }else{
-//     if (input1%100==input1/100){
+//     if (input1%100==input1/1000){
 //         Console.WriteLine("chislo 1 polimorf");
 //     }else {
 //         Console.WriteLine("chislo 1 ne polimorf");
@@ -46,10 +46,10 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-Console.WriteLine("Vvedite chislo 1");
-int input1 =int.Parse(Console.ReadLine());
+// Console.WriteLine("Vvedite chislo 1");
+// int input1 =int.Parse(Console.ReadLine());
 
-for (int i = 1; i <= input1; i++)
-{
-    Console.Write($" {Math.Pow(i, 3)},");
-}
+// for (int i = 1; i <= input1; i++)
+// {
+//     Console.Write($" {Math.Pow(i, 3)},");
+// }
