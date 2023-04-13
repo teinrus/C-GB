@@ -4,8 +4,8 @@
 // 0, 7, 8, -2, -2 -> 2
     static void Mchisla(){
             Console.Write("Vvedite chislo chres probel ");
-            string input= Console.ReadLine();
-            string[] arr = input.Split(' ');
+            string[] arr = Console.ReadLine().Split(' ');
+            
             int result = 0;
             foreach (var item in arr)
             {
@@ -24,7 +24,7 @@
         Console.Write("Vvedite chislo chres probel ");
 
         string [] input= Console.ReadLine().Split(' ');
-        
+    
         double b1 = Convert.ToInt32(input[0]);
         double k1 = Convert.ToInt32(input[1]);
         double b2 = Convert.ToInt32(input[2]);
@@ -33,11 +33,11 @@
         double x = (-b2 + b1)/(-k1 + k2);
         double y = k2 * x + b2;
 
-        Console.WriteLine($"две прямые пересекутся в точке с координатами X: {x}, Y: {y}");
+        Console.WriteLine($"пересекутся в точке X: {x}, Y: {y}");
         }
     static void Main(string[] args)
     {
-        Mchisla();
+        // Mchisla();
         urovnenie();
 
 
